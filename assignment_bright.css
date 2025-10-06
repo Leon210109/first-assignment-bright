@@ -245,9 +245,10 @@ a:hover {
         height: 150px;
         right: 10px;
         left: auto;
-        transform: translate(0, -50%);
+        transform: translate(0, -25%);
     }
 }
+
 
 
 
