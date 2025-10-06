@@ -241,13 +241,14 @@ a:hover {
         max-width: 100%;
     }
       .navbar::before {
-        width: 150px;
-        height: 150px;
+        width: 110px;
+        height: 110px;
         right: 10px;
         left: auto;
         transform: translate(0, -25%);
     }
 }
+
 
 
 
